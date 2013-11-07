@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nasa Daily Image</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="test_image_title">Decorating the sky</string>
+    <string name="test_image_date">Mon, 27 Dec 2010 00:00:00 EST</string>
+    <string name="test_image_description">This mosaic image taken by NASA\'s Wide-field Infrared Survey Explorer, or WISE, features three nebulae that are part of the giant Orion Molecular Cloud -- the Flame nebula, the Horsehead nebula and NGC 2023.\nOne of the great things about Android is how many devices it runs on... and how many devices your apps can run on! The price for that versatility is the need to support a whole bunch of different devices with a wide range of resolutions and screen sizes. \nYou’ll learn more about supporting different screen sizes and devices later. For now, just add images to the drawable-hdpi directory. The default emulator will use the images in this directory.</string>
+    
+    <string name="refresh">Refresh</string>
+    <string name="setWallpaperBtn">Set Wallpaper</string>
+    
+</resources>
